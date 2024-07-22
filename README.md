@@ -1,5 +1,4 @@
-## Hi there 👋 I'm Duchang Kim or Duchi
-
+## Hi there 👋 I'm Duchang Kim
 <!--
 **duchangkim/duchangkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
