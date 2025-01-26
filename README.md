@@ -17,4 +17,4 @@ duchang@software-engineer:~/workspace$ █
 
 <br />
 안녕하세요, 개발자 김두창입니다.<br />
-저에 대해 더 알고 싶으시면 제 [웹사이트](https://duchi.click)를 방문해 보세요!
+저에 대해 더 알고 싶으시면 제 <a href="https://duchi.click">웹사이트</a>를 방문해 보세요!
